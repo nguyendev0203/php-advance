@@ -139,7 +139,8 @@
                                  <li class="nav-item">
                                     <a href="admin.php?act=logout" class="nav-link">
                                        <i data-feather="log-out"></i>
-                                       <span>Log Out</span>
+                                       <a href="?act=logout">Log Out</a>
+                                       <!-- <span>Log Out</span> -->
                                     </a>
                                  </li>
                               </ul>

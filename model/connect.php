@@ -13,7 +13,7 @@
       $this->servername = "localhost";
       $this->username = "root";
       $this->password = "";
-      $this->dbname = "thphone";
+      $this->dbname = "test8";
       $this->charset = "utf8";
       try {
         $dsn = "mysql:host=".$this->servername.";dbname=".$this->dbname.";charset=".$this->charset;
